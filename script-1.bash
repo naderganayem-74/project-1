@@ -2,7 +2,7 @@
 
 
 echo -n "Enter a directory to delete: "
-#echo -n "Enter a number: "
+echo -n "Enter a number: "
 read VAR
 
 if [[ $VAR -gt 10 ]]
